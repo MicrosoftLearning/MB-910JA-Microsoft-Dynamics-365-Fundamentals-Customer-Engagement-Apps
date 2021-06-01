@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: 経費管理'
     module: 'モジュール 5: Dynamics 365 Project Operations の基礎を学ぶ'
