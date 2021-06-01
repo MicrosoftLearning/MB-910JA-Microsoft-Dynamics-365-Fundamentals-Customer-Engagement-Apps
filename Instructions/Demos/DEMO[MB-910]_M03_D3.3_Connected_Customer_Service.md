@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: Connected Customer Service'
     module: 'モジュール 3: Dynamics 365 Customer Service の基礎を学ぶ'
