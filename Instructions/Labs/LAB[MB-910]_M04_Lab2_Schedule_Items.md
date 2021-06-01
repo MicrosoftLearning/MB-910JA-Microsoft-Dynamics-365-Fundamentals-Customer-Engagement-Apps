@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 4.2: Dynamics 365 Field Service でアイテムをスケジュールする'
     module: 'モジュール 4: Dynamics 365 Field Service の基礎を学ぶ'
