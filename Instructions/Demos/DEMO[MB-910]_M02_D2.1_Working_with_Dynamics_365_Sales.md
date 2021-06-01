@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: Dynamics 365 Sales の使用'
     module: 'モジュール 2: Dynamics 365 Sales の基礎を学ぶ'
