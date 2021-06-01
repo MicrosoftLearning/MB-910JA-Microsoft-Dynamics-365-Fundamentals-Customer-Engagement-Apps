@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: Dynamics 365 Customer Field の使用'
     module: 'モジュール 4: Dynamics 365 Field Service の基礎を学ぶ'

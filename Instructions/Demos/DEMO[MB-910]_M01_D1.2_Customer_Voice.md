@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: Customer Voice'
     module: 'モジュール 1: Dynamics 365 Marketing の基礎を学ぶ'

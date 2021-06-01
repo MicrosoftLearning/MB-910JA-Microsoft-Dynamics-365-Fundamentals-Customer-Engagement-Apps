@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: Customer Service Insights'
     module: 'モジュール 3: Dynamics 365 Customer Service の基礎を学ぶ'

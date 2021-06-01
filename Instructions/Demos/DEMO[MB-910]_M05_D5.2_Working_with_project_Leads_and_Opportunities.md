@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: プロジェクトのリードと営業案件の使用'
     module: 'モジュール 5: Dynamics 365 Project Operations の基礎を学ぶ'

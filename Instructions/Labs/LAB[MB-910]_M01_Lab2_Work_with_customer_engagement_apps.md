@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 1.2: 顧客エンゲージメント アプリの使用'
     module: 'モジュール 1: Dynamics 365 Marketing の基礎を学ぶ'

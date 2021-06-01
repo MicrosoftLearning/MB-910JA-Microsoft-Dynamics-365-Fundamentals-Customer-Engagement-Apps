@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 2.3: Dynamics 365 Sales キャップストーン ラボ'
     module: 'モジュール 2: Dynamics 365 Sales の基礎を学ぶ'

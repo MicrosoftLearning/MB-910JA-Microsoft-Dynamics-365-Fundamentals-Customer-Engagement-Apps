@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 1.3: 顧客およびアクティビティを管理する'
     module: 'モジュール 1: Dynamics 365 Marketing の基礎を学ぶ'

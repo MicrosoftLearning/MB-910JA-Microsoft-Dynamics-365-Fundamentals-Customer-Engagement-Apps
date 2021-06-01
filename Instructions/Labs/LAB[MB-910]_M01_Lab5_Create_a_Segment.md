@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 1.5: Dynamics 365 Marketing でのセグメントの作成'
     module: 'モジュール 1: Dynamics 365 Marketing の基礎を学ぶ'

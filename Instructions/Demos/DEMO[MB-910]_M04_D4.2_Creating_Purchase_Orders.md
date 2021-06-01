@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: 発注書の作成'
     module: 'モジュール 4: Dynamics 365 Field Service の基礎を学ぶ'
