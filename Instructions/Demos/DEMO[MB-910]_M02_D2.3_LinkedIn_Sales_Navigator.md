@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: LinkedIn Sales Navigator'
     module: 'モジュール 2: Dynamics 365 Sales の基礎を学ぶ'
