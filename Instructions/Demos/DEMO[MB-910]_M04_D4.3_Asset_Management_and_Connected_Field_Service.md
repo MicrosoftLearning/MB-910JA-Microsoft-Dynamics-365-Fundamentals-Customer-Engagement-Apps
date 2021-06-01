@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ: 資産管理と Connected Field Service'
     module: 'モジュール 4: Dynamics 365 Customer Service の基礎を学ぶ'
