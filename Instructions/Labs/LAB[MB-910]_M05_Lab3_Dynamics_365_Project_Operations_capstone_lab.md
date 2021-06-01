@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 5.3: Dynamics 365 Project Operations キャップストーン ラボ'
     module: 'モジュール 5: Dynamics 365 Project Operations の基礎を学ぶ'
