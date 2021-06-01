@@ -1,7 +1,7 @@
 ﻿---
 demo:
     title: 'デモ: Customer Insights'
-    module: 'モジュール 1: Dynamics 365 Marketing の基礎を学ぶ’
+    module: 'モジュール 1: Dynamics 365 Marketing の基礎を学ぶ'
 ---
 
 # デモ: Customer Insights

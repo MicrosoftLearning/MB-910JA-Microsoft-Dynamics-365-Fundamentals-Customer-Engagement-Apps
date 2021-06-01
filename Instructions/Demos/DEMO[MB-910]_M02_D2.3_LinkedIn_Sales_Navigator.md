@@ -34,7 +34,7 @@ LinkedIn Sales Navigator の見込顧客機能は、Dynamics 365 の Customer En
 
 		- 情報を操作し、アカウントを調査する方法を示す。 
 
-- - 連絡先レコードを開く
+- 連絡先レコードを開く
 
 	- LinkedIn Sales Navigator の情報を表示する
 
