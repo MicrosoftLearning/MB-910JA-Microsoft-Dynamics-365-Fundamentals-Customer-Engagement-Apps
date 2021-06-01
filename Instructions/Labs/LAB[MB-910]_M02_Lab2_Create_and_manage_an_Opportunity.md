@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 2.2: Dynamics 365 Sales の営業案件の作成と管理
     module: 'モジュール 2: Dynamics 365 Sales の基礎を学ぶ'
