@@ -1,4 +1,4 @@
-﻿---
+---
 ラボ:
     タイトル: 'ラボ 3.1: Dynamics 365 Customer Service で情報記事を作成して公開する'
     モジュール: 'モジュール 3: Dynamics 365 Customer Service の基礎を学ぶ'
