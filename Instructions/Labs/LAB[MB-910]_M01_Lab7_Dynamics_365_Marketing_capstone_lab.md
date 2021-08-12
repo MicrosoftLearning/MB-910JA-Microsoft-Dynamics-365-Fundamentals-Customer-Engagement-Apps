@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 1.7: Dynamics 365 Marketing キャップストーン ラボ'
     module: 'モジュール 1: Dynamics 365 Marketing の基礎を学ぶ'
