@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 4.3: Dynamics 365 Field Service キャップストーン ラボ'
     module: 'モジュール 4: Dynamics 365 Field Service の基礎を学ぶ'
