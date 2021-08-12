@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 3.2: Dynamics 365 Customer Service でサポート案件を作成および管理する'
     module: 'モジュール 3: Dynamics 365 Customer Service の基礎を学ぶ'
