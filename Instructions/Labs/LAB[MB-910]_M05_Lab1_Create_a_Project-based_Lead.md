@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 5.1: プロジェクトベースのリードを作成する'
     module: 'モジュール 5: Dynamics 365 Project Operations の基礎を学ぶ'

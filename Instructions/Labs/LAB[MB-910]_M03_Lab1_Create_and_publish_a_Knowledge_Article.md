@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 ﻿---
 lab:
     title: 'ラボ 3.1: Dynamics 365 Customer Service で情報記事を作成して公開する'
     module: 'モジュール 3: Dynamics 365 Customer Service の基礎を学ぶ'
+=======
+---
+ラボ:
+    タイトル: 'ラボ 3.1: Dynamics 365 Customer Service で情報記事を作成して公開する'
+    モジュール: 'モジュール 3: Dynamics 365 Customer Service の基礎を学ぶ'
+>>>>>>> 2d7e3c4fb5585803432a3b54e0f28dbc3c231e76
 ---
 
 モジュール 3: Dynamics 365 Customer Service の基礎を学ぶ

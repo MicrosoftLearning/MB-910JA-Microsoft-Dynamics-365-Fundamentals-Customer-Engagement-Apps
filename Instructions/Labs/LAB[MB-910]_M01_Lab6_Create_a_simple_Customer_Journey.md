@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 1.6: 簡単な顧客体験の作成'
     module: 'モジュール 1: Dynamics 365 Marketing の基礎を学ぶ'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 4.1: Dynamics 365 Field Service で作業指示書を生成する'
     module: 'モジュール 4: Dynamics 365 Field Service の基礎を学ぶ'
