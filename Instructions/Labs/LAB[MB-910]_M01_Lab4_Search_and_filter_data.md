@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 1.4: データの検索とフィルター処理'
     module: 'モジュール 1: Dynamics 365 Marketing の基礎を学ぶ'
