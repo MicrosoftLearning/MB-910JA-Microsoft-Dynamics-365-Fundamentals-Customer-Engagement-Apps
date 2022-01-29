@@ -1,4 +1,13 @@
-﻿# INF99X: サンプル コース
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps.ja-jp) on 21 January 2022. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps.ja-jp).
+
+# INF99X: サンプル コース
 
 - **[最新の受講者ハンドブックと AllFiles コンテンツをダウンロードする](../../releases/latest)**
 - **あなたは MCT ですか。** - [MCT 向け GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide-JA/)をご覧ください
